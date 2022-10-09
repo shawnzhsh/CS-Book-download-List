@@ -1,4 +1,7 @@
-BOOK
+CS Book List:
+
+copy from here : https://github.com/huazi1234/BOOK
+
 http://www.shenhuanjie.com/2019/07/03/resource-collection-computer-programming-books-pdf-sharing/
 
 【资源合集】计算机编程书籍.PDF分享 7月 3,2019 【资源合集】计算机编程书籍.PDF分享有2条评论 计算机科学 声明： 以下资料只应该作为学习交流，请勿用于某种获利的行为，谢谢
